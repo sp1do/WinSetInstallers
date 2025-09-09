@@ -13,7 +13,7 @@
       "name": "Mozilla Firefox",
       "description": "Свободный и открытый веб-браузер",
       "version": "Последняя",
-      "silentArgs": ["/S"],
+      "silentArgs": [""],
       "isZip": false
     },
     {
