@@ -35,7 +35,7 @@
     {
       "fileName": "Lunacy_One_v1.0.1.1.exe",
       "name": "Lunacy",
-      "description": "Бесплатное программное обеспечение для UI/UX-дизайна",
+      "description": "Программное обеспечение для мышки LunacyOne",
       "version": "Последняя",
       "silentArgs": ["/S"],
       "isZip": false
