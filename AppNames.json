@@ -19,7 +19,7 @@
     {
       "fileName": "winrar-x64-713ru.exe",
       "name": "WinRar",
-      "description": "Winrar",
+      "description": "WinRar",
       "version": "Последняя",
       "silentArgs": [""],
       "isZip": false
@@ -27,7 +27,7 @@
     {
       "fileName": "comet_installer_latest.exe",
       "name": "Comet",
-      "description": "Comet",
+      "description": "Comett",
       "version": "Последняя",
       "silentArgs": [""],
       "isZip": false
