@@ -9,6 +9,14 @@
       "isZip": false
     },
     {
+      "fileName": "FileZilla_3.69.3_win64_sponsored2-setup.exe",
+      "name": "Filezilla",
+      "description": "Filezilla",
+      "version": "Последняя",
+      "silentArgs": [""],
+      "isZip": false
+    },
+    {
       "fileName": "Firefox.Installer.exe",
       "name": "Mozilla Firefox",
       "description": "Свободный и открытый веб-браузер",
@@ -119,14 +127,6 @@
       "version": "1.8.3",
       "silentArgs": [],
       "isZip": true
-    },
-     {
-      "fileName": "FileZilla_3.69.3_win64_sponsored2-setup.exe",
-      "name": "Filezilla",
-      "description": "Продвинутый текстовый редактор",
-      "version": "Последняя",
-      "silentArgs": [""],
-      "isZip": false
     }
   ]
 }
