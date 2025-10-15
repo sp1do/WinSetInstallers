@@ -17,6 +17,22 @@
       "isZip": false
     },
     {
+      "fileName": "winrar-x64-713ru.exe",
+      "name": "WinRar",
+      "description": "Winrar",
+      "version": "Последняя",
+      "silentArgs": [""],
+      "isZip": false
+    },
+    {
+      "fileName": "comet_installer_latest.exe",
+      "name": "Comet",
+      "description": "Comet",
+      "version": "Последняя",
+      "silentArgs": [""],
+      "isZip": false
+    },
+    {
       "fileName": "Firefox.Installer.exe",
       "name": "Mozilla Firefox",
       "description": "Свободный и открытый веб-браузер",
