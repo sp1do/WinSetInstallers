@@ -27,7 +27,7 @@
     {
       "fileName": "comet_installer_latest.exe",
       "name": "Comet",
-      "description": "Comett",
+      "description": "Comet",
       "version": "Последняя",
       "silentArgs": [],
       "isZip": false
