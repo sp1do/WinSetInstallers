@@ -5,7 +5,7 @@
       "name": "Visual Studio Code",
       "description": "Редактор исходного кода от Microsoft",
       "version": "Последняя",
-      "silentArgs": ["/VERYSILENT", "/NORESTART", "/MERGETASKS=!runcode"],
+      "silentArgs": [],
       "isZip": false
     },
     {
@@ -13,7 +13,7 @@
       "name": "Filezilla",
       "description": "Filezilla",
       "version": "Последняя",
-      "silentArgs": [""],
+      "silentArgs": [],
       "isZip": false
     },
     {
@@ -21,7 +21,7 @@
       "name": "WinRar",
       "description": "WinRar",
       "version": "Последняя",
-      "silentArgs": [""],
+      "silentArgs": [],
       "isZip": false
     },
     {
@@ -29,7 +29,7 @@
       "name": "Comet",
       "description": "Comett",
       "version": "Последняя",
-      "silentArgs": [""],
+      "silentArgs": [],
       "isZip": false
     },
     {
@@ -37,7 +37,7 @@
       "name": "Mozilla Firefox",
       "description": "Свободный и открытый веб-браузер",
       "version": "Последняя",
-      "silentArgs": [""],
+      "silentArgs": [],
       "isZip": false
     },
     {
@@ -45,7 +45,7 @@
       "name": "Steam",
       "description": "Игровая платформа от Valve",
       "version": "Последняя",
-      "silentArgs": ["/S"],
+      "silentArgs": [],
       "isZip": false
     },
     {
@@ -53,15 +53,7 @@
       "name": "AdGuard VPN",
       "description": "VPN-сервис для защиты приватности",
       "version": "Последняя",
-      "silentArgs": ["/S"],
-      "isZip": false
-    },
-    {
-      "fileName": "Lunacy_One_v1.0.1.1.exe",
-      "name": "Lunacy",
-      "description": "Программное обеспечение для мышки LunacyOne",
-      "version": "Последняя",
-      "silentArgs": ["/S"],
+      "silentArgs": [],
       "isZip": false
     },
     {
@@ -69,7 +61,7 @@
       "name": "NVIDIA App",
       "description": "Драйверы и инструменты для видеокарт NVIDIA",
       "version": "Последняя",
-      "silentArgs": ["/S"],
+      "silentArgs": [],
       "isZip": false
     },
     {
@@ -77,7 +69,7 @@
       "name": "ExitLag",
       "description": "Инструмент для оптимизации сетевого соединения в играх",
       "version": "Последняя",
-      "silentArgs": ["/S"],
+      "silentArgs": [],
       "isZip": false
     },
     {
@@ -85,7 +77,7 @@
       "name": "Telegram",
       "description": "Быстрое и безопасное приложение для обмена сообщениями",
       "version": "Последняя",
-      "silentArgs": ["/VERYSILENT", "/NORESTART"],
+      "silentArgs": [],
       "isZip": false
     },
     {
@@ -93,7 +85,7 @@
       "name": "Visual Studio",
       "description": "Среда разработки (IDE) от Microsoft",
       "version": "Последняя",
-      "silentArgs": ["/quiet", "/norestart"],
+      "silentArgs": [],
       "isZip": false
     },
     {
@@ -101,7 +93,7 @@
       "name": "Discord",
       "description": "Платформа для голосового, видеои текстового общения",
       "version": "Последняя",
-      "silentArgs": ["/S"],
+      "silentArgs": [],
       "isZip": false
     },
     {
@@ -109,7 +101,7 @@
       "name": "Epic Games Launcher",
       "description": "Игровая платформа от Epic Games",
       "version": "Последняя",
-      "silentArgs": ["/quiet", "/norestart"],
+      "silentArgs": [],
       "isZip": false
     },
     {
@@ -117,7 +109,7 @@
       "name": "IntelliJ IDEA Ultimate",
       "description": "Профессиональная IDE для разработки на Java",
       "version": "Последняя",
-      "silentArgs": ["/S"],
+      "silentArgs": [],
       "isZip": false
     },
     {
@@ -125,7 +117,7 @@
       "name": "Node.js",
       "description": "Среда выполнения JavaScript",
       "version": "Последняя",
-      "silentArgs": ["/quiet", "/norestart"],
+      "silentArgs": [],
       "isZip": false
     },
     {
@@ -133,7 +125,7 @@
       "name": "Notepad++",
       "description": "Продвинутый текстовый редактор",
       "version": "Последняя",
-      "silentArgs": ["/S"],
+      "silentArgs": [],
       "isZip": false
     },
     {
@@ -143,6 +135,46 @@
       "version": "1.8.3",
       "silentArgs": [],
       "isZip": true
+    },
+    {
+      "fileName": "Git-2.51.2-64-bit.exe",
+      "name": "Git",
+      "description": "Система контроля версий",
+      "version": "Последняя",
+      "silentArgs": [],
+      "isZip": false
+    },
+    {
+      "fileName": "lghub_installer.exe",
+      "name": "Logitech G Hub",
+      "description": "ПО для управления устройствами Logitech",
+      "version": "Последняя",
+      "silentArgs": [],
+      "isZip": false
+    },
+    {
+      "fileName": "OBS-Studio-32.0.2-Windows-x64-Installer.exe",
+      "name": "OBS Studio",
+      "description": "Программа для записи и трансляции видео",
+      "version": "Последняя",
+      "silentArgs": [],
+      "isZip": false
+    },
+    {
+      "fileName": "python-3.14.0-amd64.exe",
+      "name": "Python",
+      "description": "Язык программирования Python",
+      "version": "Последняя",
+      "silentArgs": [],
+      "isZip": false
+    },
+    {
+      "fileName": "WLMOUSE20241217_10_04_27_Ver2.1.0.4.exe",
+      "name": "WL Mouse",
+      "description": "ПО для мышки WL Mouse",
+      "version": "Последняя",
+      "silentArgs": [],
+      "isZip": false
     }
   ]
 }
