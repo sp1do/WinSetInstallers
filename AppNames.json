@@ -1,73 +1,9 @@
 {
   "apps": [
     {
-      "fileName": "VSCodeUserSetup-x64-1.103.2.exe",
-      "name": "Visual Studio Code",
-      "description": "Редактор исходного кода от Microsoft",
-      "version": "Последняя",
-      "silentArgs": [],
-      "isZip": false
-    },
-    {
-      "fileName": "FileZilla_3.69.3_win64_sponsored2-setup.exe",
-      "name": "Filezilla",
-      "description": "Filezilla",
-      "version": "Последняя",
-      "silentArgs": [],
-      "isZip": false
-    },
-    {
-      "fileName": "winrar-x64-713ru.exe",
-      "name": "WinRar",
-      "description": "WinRar",
-      "version": "Последняя",
-      "silentArgs": [],
-      "isZip": false
-    },
-    {
-      "fileName": "comet_installer_latest.exe",
-      "name": "Comet",
-      "description": "Comet",
-      "version": "Последняя",
-      "silentArgs": [],
-      "isZip": false
-    },
-    {
-      "fileName": "Firefox.Installer.exe",
-      "name": "Mozilla Firefox",
-      "description": "Свободный и открытый веб-браузер",
-      "version": "Последняя",
-      "silentArgs": [],
-      "isZip": false
-    },
-    {
-      "fileName": "SteamSetup.exe",
-      "name": "Steam",
-      "description": "Игровая платформа от Valve",
-      "version": "Последняя",
-      "silentArgs": [],
-      "isZip": false
-    },
-    {
-      "fileName": "AdGuardVpn-2.4.0-.1475.exe",
-      "name": "AdGuard VPN",
-      "description": "VPN-сервис для защиты приватности",
-      "version": "Последняя",
-      "silentArgs": [],
-      "isZip": false
-    },
-    {
-      "fileName": "NVIDIA_app_v11.0.5.245.exe",
-      "name": "NVIDIA App",
-      "description": "Драйверы и инструменты для видеокарт NVIDIA",
-      "version": "Последняя",
-      "silentArgs": [],
-      "isZip": false
-    },
-    {
-      "fileName": "SetupExitLag-5.17.0-x64.exe",
-      "name": "ExitLag",
-      "description": "Инструмент для оптимизации сетевого соединения в играх",
+      "fileName": "ChromeSetup.exe",
+      "name": "Google Chrome",
+      "description": "Быстрый и популярный браузер от Google с синхронизацией и расширениями",
       "version": "Последняя",
       "silentArgs": [],
       "isZip": false
@@ -75,15 +11,7 @@
     {
       "fileName": "tsetup-x64.6.1.3.exe",
       "name": "Telegram",
-      "description": "Быстрое и безопасное приложение для обмена сообщениями",
-      "version": "Последняя",
-      "silentArgs": [],
-      "isZip": false
-    },
-    {
-      "fileName": "VisualStudioSetup.exe",
-      "name": "Visual Studio",
-      "description": "Среда разработки (IDE) от Microsoft",
+      "description": "Мессенджер с облачной синхронизацией, каналами и ботами для общения и передачи файлов",
       "version": "Последняя",
       "silentArgs": [],
       "isZip": false
@@ -91,63 +19,71 @@
     {
       "fileName": "DiscordSetup.exe",
       "name": "Discord",
-      "description": "Платформа для голосового, видеои текстового общения",
+      "description": "Платформа для общения голосом, видео и текстом — серверы сообществ и звонки",
       "version": "Последняя",
       "silentArgs": [],
       "isZip": false
     },
     {
-      "fileName": "EpicInstaller-18.8.1.msi",
-      "name": "Epic Games Launcher",
-      "description": "Игровая платформа от Epic Games",
+      "fileName": "Firefox.Installer.exe",
+      "name": "Mozilla Firefox",
+      "description": "Свободный браузер с упором на приватность, скорость и гибкие настройки",
       "version": "Последняя",
       "silentArgs": [],
       "isZip": false
     },
     {
-      "fileName": "ideaIU-2025.2.1.exe",
-      "name": "IntelliJ IDEA Ultimate",
-      "description": "Профессиональная IDE для разработки на Java",
+      "fileName": "VSCodeUserSetup-x64-1.103.2.exe",
+      "name": "Visual Studio Code",
+      "description": "Популярный редактор кода от Microsoft — отладка, расширения, встроенный Git и терминал",
       "version": "Последняя",
+      "silentArgs": [],
+      "isZip": false
+    },
+    {
+      "fileName": "Git-2.51.2-64-bit.exe",
+      "name": "Git",
+      "description": "Система контроля версий для отслеживания изменений кода и командной работы",
+      "version": "2.51.2",
+      "silentArgs": [],
+      "isZip": false
+    },
+    {
+      "fileName": "python-3.14.0-amd64.exe",
+      "name": "Python",
+      "description": "Популярный язык программирования для веб-разработки, автоматизации и анализа данных",
+      "version": "3.14.0",
       "silentArgs": [],
       "isZip": false
     },
     {
       "fileName": "node-v22.19.0-x64.msi",
       "name": "Node.js",
-      "description": "Среда выполнения JavaScript",
-      "version": "Последняя",
+      "description": "Среда выполнения JavaScript на сервере, включает менеджер пакетов npm",
+      "version": "22.19.0",
       "silentArgs": [],
       "isZip": false
     },
     {
-      "fileName": "npp.8.8.5.Installer.x64.exe",
-      "name": "Notepad++",
-      "description": "Продвинутый текстовый редактор",
-      "version": "Последняя",
+      "fileName": "winrar-x64-713ru.exe",
+      "name": "WinRAR",
+      "description": "Работа с ZIP, RAR и архивами — сжатие и распаковка, защита паролем",
+      "version": "7.13",
       "silentArgs": [],
       "isZip": false
     },
     {
-      "fileName": "zapret-discord-youtube-1.8.3.zip",
-      "name": "Zapret Discord YouTube",
-      "description": "Инструмент для доступа к Discord и YouTube",
-      "version": "1.8.3",
-      "silentArgs": [],
-      "isZip": true
-    },
-    {
-      "fileName": "Git-2.51.2-64-bit.exe",
-      "name": "Git",
-      "description": "Система контроля версий",
-      "version": "Последняя",
+      "fileName": "NVIDIA_app_v11.0.5.245.exe",
+      "name": "NVIDIA App",
+      "description": "Единая утилита для обновления драйверов, настройки GeForce и игровой оптимизации",
+      "version": "11.0.5",
       "silentArgs": [],
       "isZip": false
     },
     {
-      "fileName": "lghub_installer.exe",
-      "name": "Logitech G Hub",
-      "description": "ПО для управления устройствами Logitech",
+      "fileName": "SteamSetup.exe",
+      "name": "Steam",
+      "description": "Крупнейшая игровая платформа: покупка, запуск и облачные сохранения игр",
       "version": "Последняя",
       "silentArgs": [],
       "isZip": false
@@ -155,24 +91,56 @@
     {
       "fileName": "OBS-Studio-32.0.2-Windows-x64-Installer.exe",
       "name": "OBS Studio",
-      "description": "Программа для записи и трансляции видео",
+      "description": "Бесплатное ПО для записи экрана, стриминга и трансляций с настройкой сцен",
+      "version": "32.0.2",
+      "silentArgs": [],
+      "isZip": false
+    },
+    {
+      "fileName": "VisualStudioSetup.exe",
+      "name": "Visual Studio",
+      "description": "Полноценная среда разработки Microsoft для C#, C++ и веб-проектов",
       "version": "Последняя",
       "silentArgs": [],
       "isZip": false
     },
     {
-      "fileName": "python-3.14.0-amd64.exe",
-      "name": "Python",
-      "description": "Язык программирования Python",
+      "fileName": "FileZilla_3.69.3_win64_sponsored2-setup.exe",
+      "name": "FileZilla",
+      "description": "FTP/SFTP-клиент для загрузки и скачивания файлов на сервер",
+      "version": "3.69.3",
+      "silentArgs": [],
+      "isZip": false
+    },
+    {
+      "fileName": "EpicInstaller-18.8.1.msi",
+      "name": "Epic Games Launcher",
+      "description": "Игровая платформа Epic: магазин игр и бесплатные раздачи каждую неделю",
+      "version": "18.8.1",
+      "silentArgs": [],
+      "isZip": false
+    },
+    {
+      "fileName": "lghub_installer.exe",
+      "name": "Logitech G Hub",
+      "description": "Управление устройствами Logitech: макросы, подсветка и настройка кнопок",
       "version": "Последняя",
       "silentArgs": [],
       "isZip": false
+    },
+    {
+      "fileName": "zapret-discord-youtube-1.8.3.zip",
+      "name": "Zapret Discord YouTube",
+      "description": "Обход замедления Discord и YouTube — распаковывается в архив",
+      "version": "1.8.3",
+      "silentArgs": [],
+      "isZip": true
     },
     {
       "fileName": "WLMOUSE20241217_10_04_27_Ver2.1.0.4.exe",
       "name": "WL Mouse",
-      "description": "ПО для мышки WL Mouse",
-      "version": "Последняя",
+      "description": "Программное обеспечение для мыши WLMOUSE: DPI, кнопки и подсветка",
+      "version": "2.1.0.4",
       "silentArgs": [],
       "isZip": false
     }
