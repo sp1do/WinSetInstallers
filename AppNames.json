@@ -143,6 +143,14 @@
       "version": "2.1.0.4",
       "silentArgs": [],
       "isZip": false
+    },
+    {
+      "fileName": "VoiceApp Setup 1.0.0.exe",
+      "name": "Voice app",
+      "description": "Программное обеспечение для диктовки",
+      "version": "Последняя",
+      "silentArgs": [],
+      "isZip": false
     }
   ]
 }
