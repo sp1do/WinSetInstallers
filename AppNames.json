@@ -145,10 +145,26 @@
       "isZip": false
     },
     {
-      "fileName": "VoiceApp Setup 1.0.0.exe",
+      "fileName": "VoiceApp.Setup.1.0.0.exe",
       "name": "Voice app",
       "description": "Программное обеспечение для диктовки",
       "version": "Последняя",
+      "silentArgs": [],
+      "isZip": false
+    },
+    {
+      "fileName": "",
+      "name": "LanBeam",
+      "description": "Программное обеспечение передачи файлов по локальной сети",
+      "version": "Последняя",
+      "silentArgs": [],
+      "isZip": false
+    },
+    {
+      "fileName": "Throne-1.2.4.exe",
+      "name": "Throne",
+      "description": "Десктопная прокси-утилита с GUI",
+      "version": "1.2.4",
       "silentArgs": [],
       "isZip": false
     }
