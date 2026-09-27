@@ -6,7 +6,8 @@
       "description": "Быстрый и популярный браузер от Google с синхронизацией и расширениями",
       "version": "Последняя",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "dcedea5b3e66c391eb4252d9092c746671b26163255facb450f02235bc14908e"
     },
     {
       "fileName": "tsetup-x64.6.1.3.exe",
@@ -14,7 +15,8 @@
       "description": "Мессенджер с облачной синхронизацией, каналами и ботами для общения и передачи файлов",
       "version": "Последняя",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "9fa7306d5e91969c2caca30b675c7dc6aff46aa626ee90f4e556652389d9ffd9"
     },
     {
       "fileName": "DiscordSetup.exe",
@@ -22,7 +24,8 @@
       "description": "Платформа для общения голосом, видео и текстом — серверы сообществ и звонки",
       "version": "Последняя",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "f1f2f00b5414964310567be1c542ae2b5a31f3564b24cf8f650c0a3de11d84e3"
     },
     {
       "fileName": "Firefox.Installer.exe",
@@ -30,7 +33,8 @@
       "description": "Свободный браузер с упором на приватность, скорость и гибкие настройки",
       "version": "Последняя",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "7cd2f688c6663d9c07b631f349311268bde4d2afb390ff6e60235481add67e98"
     },
     {
       "fileName": "VSCodeUserSetup-x64-1.103.2.exe",
@@ -38,7 +42,8 @@
       "description": "Популярный редактор кода от Microsoft — отладка, расширения, встроенный Git и терминал",
       "version": "Последняя",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "043bbdfd95a39065861b8e0e77765bfd260f1700b798626977c57865920e63dc"
     },
     {
       "fileName": "Git-2.51.2-64-bit.exe",
@@ -46,7 +51,8 @@
       "description": "Система контроля версий для отслеживания изменений кода и командной работы",
       "version": "2.51.2",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "ebd318e1d3ee0cc1ac8ead026f1edf8678dcb42c7d74d757b8e2fa8a1be0b25f"
     },
     {
       "fileName": "python-3.14.0-amd64.exe",
@@ -54,7 +60,8 @@
       "description": "Популярный язык программирования для веб-разработки, автоматизации и анализа данных",
       "version": "3.14.0",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "52ceb249f65009d936e6504f97cce42870c11358cb6e48825e893f54e11620aa"
     },
     {
       "fileName": "node-v22.19.0-x64.msi",
@@ -62,7 +69,8 @@
       "description": "Среда выполнения JavaScript на сервере, включает менеджер пакетов npm",
       "version": "22.19.0",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "9d75369d5c62f1d24340c7163cbb252fe29e1950b58095ea5f495998930ccefa"
     },
     {
       "fileName": "winrar-x64-713ru.exe",
@@ -70,7 +78,8 @@
       "description": "Работа с ZIP, RAR и архивами — сжатие и распаковка, защита паролем",
       "version": "7.13",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "670e8ececfef3ded0c92ae2b1f0ed0dca9edb431fabc25b5d13ae004c241b3dd"
     },
     {
       "fileName": "NVIDIA_app_v11.0.5.245.exe",
@@ -78,7 +87,8 @@
       "description": "Единая утилита для обновления драйверов, настройки GeForce и игровой оптимизации",
       "version": "11.0.5",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "28627ed7c73489bbfb96a3de9608418706ea5bc0c1eaec8fef109041acaecc91"
     },
     {
       "fileName": "SteamSetup.exe",
@@ -86,7 +96,8 @@
       "description": "Крупнейшая игровая платформа: покупка, запуск и облачные сохранения игр",
       "version": "Последняя",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "7d3654531c32d941b8cae81c4137fc542172bfa9635f169cb392f245a0a12bcb"
     },
     {
       "fileName": "OBS-Studio-32.0.2-Windows-x64-Installer.exe",
@@ -94,7 +105,8 @@
       "description": "Бесплатное ПО для записи экрана, стриминга и трансляций с настройкой сцен",
       "version": "32.0.2",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "da31c224edcb9520afa6a0df89c0cc32eac07b5d8e8bc2816c3e55764738a117"
     },
     {
       "fileName": "VisualStudioSetup.exe",
@@ -102,7 +114,8 @@
       "description": "Полноценная среда разработки Microsoft для C#, C++ и веб-проектов",
       "version": "Последняя",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "7d160fa8802373af013cb01edc537b4e750edd5d7ba6dbf65244536913cb7081"
     },
     {
       "fileName": "FileZilla_3.69.3_win64_sponsored2-setup.exe",
@@ -110,7 +123,8 @@
       "description": "FTP/SFTP-клиент для загрузки и скачивания файлов на сервер",
       "version": "3.69.3",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "9d4427f0840b8c3a0426aaec545f2efb3c8e8f2d5d7db9a0cdc48e34b4097898"
     },
     {
       "fileName": "EpicInstaller-18.8.1.msi",
@@ -118,7 +132,8 @@
       "description": "Игровая платформа Epic: магазин игр и бесплатные раздачи каждую неделю",
       "version": "18.8.1",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "bb3f013a3ad7e2ab1f87e7eef2fc5efc08a9e8fc39e91338a94d5b5c28e1efdf"
     },
     {
       "fileName": "lghub_installer.exe",
@@ -126,7 +141,8 @@
       "description": "Управление устройствами Logitech: макросы, подсветка и настройка кнопок",
       "version": "Последняя",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "040a8c70bdb6d77270d37f96ae1c030daeec5d06900f5fac498d3721a7ce17db"
     },
     {
       "fileName": "zapret-discord-youtube-1.8.3.zip",
@@ -134,7 +150,8 @@
       "description": "Обход замедления Discord и YouTube — распаковывается в архив",
       "version": "1.8.3",
       "silentArgs": [],
-      "isZip": true
+      "isZip": true,
+      "sha256": "28927f4c326b0ef6058055c87ddd3aa20aa0dbec0bfe2bdf533d859becda0fe8"
     },
     {
       "fileName": "WLMOUSE20241217_10_04_27_Ver2.1.0.4.exe",
@@ -142,7 +159,8 @@
       "description": "Программное обеспечение для мыши WLMOUSE: DPI, кнопки и подсветка",
       "version": "2.1.0.4",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "2a29f17e0d0eba28fb8ab38cc3c3985ab686b04b066777767184b8deb730e61d"
     },
     {
       "fileName": "VoiceApp.Setup.1.0.0.exe",
@@ -150,7 +168,8 @@
       "description": "Программное обеспечение для диктовки",
       "version": "Последняя",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "9fa33e17211550225426e544597962d8c0a868bf076bacfb5c58de5ce1769302"
     },
     {
       "fileName": "LanBeam-Setup-0.3.0.exe",
@@ -158,7 +177,8 @@
       "description": "Программное обеспечение передачи файлов по локальной сети",
       "version": "Последняя",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "49d267642c165c04a8d16923e6bce0ed1d27afca72facdf9a4e40f450e100a4b"
     },
     {
       "fileName": "Throne-1.2.4.exe",
@@ -166,7 +186,17 @@
       "description": "Десктопная прокси-утилита с GUI",
       "version": "1.2.4",
       "silentArgs": [],
-      "isZip": false
+      "isZip": false,
+      "sha256": "e8e632caeb8ebddb0dac6ae888b03766efe00a6de440b691406fb7eb73e75646"
+    },
+    {
+      "fileName": "BatteryTray-Setup-1.0.0.exe",
+      "name": "BatteryTray",
+      "description": "Заряд беспроводной мыши и гарнитуры прямо на панели задач Windows",
+      "version": "1.0.0",
+      "silentArgs": [],
+      "isZip": false,
+      "sha256": "abe907779fbf9896b7a4caa28dcab5b5cb0ab224397cc998cb2f7b706badda85"
     }
   ]
 }
