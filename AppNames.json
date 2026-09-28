@@ -197,6 +197,15 @@
       "silentArgs": [],
       "isZip": false,
       "sha256": "abe907779fbf9896b7a4caa28dcab5b5cb0ab224397cc998cb2f7b706badda85"
+    },
+    {
+      "fileName": "Clips-Setup.exe",
+      "name": "Clips",
+      "description": "Запись экрана и повторов в играх с аппаратным кодированием NVIDIA и встроенным редактором",
+      "version": "0.1.0",
+      "silentArgs": [],
+      "isZip": false,
+      "sha256": "9746a919e0cd8657aa0984abd810a974e46a59e9dad8e7290b254163c49248ce"
     }
   ]
 }
